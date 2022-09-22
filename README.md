@@ -5,11 +5,12 @@
 
 ### Description
 Intra-Body Communication (IBC) uses the human body as a part of the physical transmission channel for a more efficient and secure on-body communication. Since its introduction in 1995, it has evolved into an alternative to traditional wired and wireless techniques. In contrast to the ubiquitous radio-frequency identification (RFID) and near-field communication (NFC), IBC has, however, not reached the market yet. Therefore, possible applications remain underinvestigated.<br/>
-In this GitHub repository, we present the *OpenIBC* project and a first open-source intra-body communication (IBC) receiver that is based on a repurposed off-the-shelf low-power RFID/NFC wake-up receiver front-end, the AS3930. In the evaluation, the prototype achieved a data rate of 4096 bit/s with a packet error rate of 320.0×10−6 at a low power of 7.4μW in listening mode and 8.4μW when receiving data. We encourage researchers to replicate and improve on our work, to develop open-source IBC transceivers and to explore their potential applications. The design files and software of the prototype are made available for download below.
+In this GitHub repository, we present the *OpenIBC* project and a first open-source intra-body communication (IBC) receiver that is based on a repurposed off-the-shelf low-power RFID/NFC wake-up receiver front-end, the AS3930. In the evaluation, the prototype achieved a data rate of 4096 bit/s with a packet error rate of 320.0E−6 at a low power of 7.4μW in listening mode and 8.4μW when receiving data. We encourage researchers to replicate and improve on our work, to develop open-source IBC transceivers and to explore their potential applications. The design files and software of the prototype are made available for download below.
 
 ### Download
 #### Version V0.1 -- 2022-10-05
-The *OpenIBC* project will be presented at the EWSN conference in Linz, Austria on Wednesday, October 5, 2022. Along with the presentation, the design and source files will be published.
+The *OpenIBC* project will be presented at the EWSN conference in Linz, Austria on Wednesday, October 5, 2022. The design and source files will be published along with the presentation.
+
 
 <!--<a href="#ref_s01"><b>[1]</b></a>  ...  [Pickle file](/src/gla716_sub23.p).-->
 
