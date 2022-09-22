@@ -9,7 +9,7 @@ In this GitHub repository, we present the *OpenIBC* project and a first open-sou
 
 ### Prototypes
 #### Version V0.1 -- 2022-10-05
-The *OpenIBC* project will be presented at the EWSN conference in Linz, Austria on Wednesday, October 5, 2022. The design files and source code will be published along with the presentation.
+The *OpenIBC* project will be presented at the <a href="https://ewsn2022.jku.at/" target="_blank">EWSN</a> conference in Linz, Austria on Wednesday, October 5, 2022. The design files and source code will be published at the moment of the presentation.
 
 
 <!--<a href="#ref_s01"><b>[1]</b></a>  ...  [Pickle file](/src/gla716_sub23.p).-->
