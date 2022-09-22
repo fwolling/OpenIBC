@@ -3,7 +3,6 @@
 
 <img src="https://github.com/fwolling/OpenIBC/blob/main/fig/openibc_0v1.png" alt="OpenIBC prototype V0.1" style="float: center; margin-right: 10px;" />
 
-
 ### Download
 In this GitHub repository, we present *OpenIBC*, an open-source intra-body communication (IBC) receiver that is based on the RFID/NFC wake-up receiver front-end AS3930. We encourage researchers to replicate and improve on our work, to develop open-source IBC transceivers and to explore their potential applications. The design files and software of the prototype are made available for download below.
 
