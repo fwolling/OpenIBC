@@ -12,13 +12,11 @@ You may use the design files and source code of the developed *OpenIBC* prototyp
 
 
 ### History
-#### Version V0.1 -- 2022-10-05
+#### <a href="#prototype-v01">Prototype V0.1 -- 2022-10-05</a>
 The *OpenIBC* project will be presented at the <a href="https://ewsn2022.jku.at/" target="_blank">EWSN</a> conference in Linz, Austria on Wednesday, October 5, 2022. The design files and source code will be published at the moment of the presentation.
 
 
-<!--<a href="#ref_s01"><b>[1]</b></a>  ...  [Pickle file](/src/gla716_sub23.p).-->
-
-### Prototype V0.1
+### <a id="prototype-v01">Prototype V0.1</a>
 The first open-source IBC receiver, based on the repurposed off-the-shelf low-power RFID/NFC wake-up receiver front-end AS3930. In the evaluation, the prototype achieved a data rate of 4096 bit/s with a packet error rate of 320.0E−6 at a low power of 7.4μW in listening mode and 8.4μW when receiving data.
 
 #### Citation
