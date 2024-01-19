@@ -20,8 +20,10 @@ The *OpenIBC* project was presented at the <a href="https://ewsn2022.jku.at/" ta
 The first open-source IBC receiver is based on the repurposed off-the-shelf low-power RFID/NFC wake-up receiver front-end Sciosense AS3930. In the evaluation, the prototype achieved a data rate of 4096 bit/s with a packet error rate of 320.0E−6 at a low power of 7.4 μW in listening mode and 8.4 μW when receiving data.
 
 #### Citation
-"[OpenIBC: Open-Source Wake-Up Receiver for Capacitive Intra-Body Communication](https://www.eti.uni-siegen.de/ubicomp/papers/ewsn_openibc22.pdf)", <a href="https://ubicomp.eti.uni-siegen.de/home/team/fwolling.html.en" target="_blank">Florian Wolling</a>, Florian Hauck, <a href="https://www.eti.uni-siegen.de/emas/mitarbeiter/schroeder/index.html.en" target="_blank">Günter Schröder</a>, and <a href="https://ubicomp.eti.uni-siegen.de/home/team/kristof.html.en" target="_blank">Kristof Van Laerhoven</a>. In *Proceedings of the 2022 International Conference on Embedded Wireless Systems and Networks (EWSN 2022)*, Linz, Austria, ACM, October 2022. <!--<a href="https://doi.org" target="_blank">https://doi.org</a>-->
+"[https://www.eti.uni-siegen.de/ubicomp/papers/ubi_ewsn2022.pdf](https://www.eti.uni-siegen.de/ubicomp/papers/ubi_ewsn2022.pdf)", <a href="https://ubicomp.eti.uni-siegen.de/home/team/fwolling.html?lang=en" target="_blank">Florian Wolling</a>, Florian Hauck, <a href="https://www.eti.uni-siegen.de/emas/mitarbeiter/schroeder/index.html.en" target="_blank">Günter Schröder</a>, and <a href="https://ubicomp.eti.uni-siegen.de/home/team/kristof.html.en" target="_blank">Kristof Van Laerhoven</a>. In *Proceedings of the 2022 International Conference on Embedded Wireless Systems and Networks (EWSN 2022)*, Linz, Austria, ACM, October 2022. <!--<a href="https://doi.org" target="_blank">https://doi.org</a>-->
 
 #### Design Files
 
 #### Source Code
+
+
